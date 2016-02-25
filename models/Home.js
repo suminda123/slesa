@@ -21,7 +21,6 @@ Home.add({
 		h5: {type: String},
 		content: {type: Types.Html, wysiwyg: true, height: 400}
 	},
-	happyClientsHeader: {type: String},
 	state: { type: Types.Select, options: 'draft, published, archived', default: 'draft', index: true },
 	publishedDate: { type: Types.Date, index: true }
 });
