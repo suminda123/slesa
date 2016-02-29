@@ -20,3 +20,31 @@
 
 // Add your own site style includes here
 @import "site/layout";
+
+
+.primarycolorlighten1{
+  @extend $primary-color, .lighten-1;
+}
+
+.primarycolorlighten2{
+  @extend $primary-color, .lighten-2;
+}
+
+.primarycolorlighten3{
+  @extend $primary-color, .lighten-3;
+}
+
+.primarycolorlighten4{
+  @extend $primary-color, .lighten-4;
+}
+
+.image-title {
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 20px;
+}
+
+
+

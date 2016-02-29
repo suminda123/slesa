@@ -8,6 +8,7 @@ var SliderImages = new keystone.List('SliderImages', {
 SliderImages.add({
     title: { type: String, default:"Title", required: true },
     subtitle: { type: String},
+	website: { type: Types.Url},
     image: { type: Types.CloudinaryImage}
 });
 
