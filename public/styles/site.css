@@ -8524,12 +8524,31 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   .picker--time .picker__box {
     margin-bottom: 5em; } }
 
+body {
+  background: url(../../images/bgNews.jpg) no-repeat fixed center top; }
+
+.heading {
+  line-height: 80px;
+  font-size: 1.8em;
+  display: inline-block;
+  margin-left: 90px;
+  font-family: 'Josefin Sans' !important;
+  font-style: normal;
+  font-weight: bold; }
+
+.bgwhite {
+  background-color: #fff; }
+
 .logodiv {
-  height: 60px; }
+  height: 80px; }
+
+nav {
+  height: 80px;
+  line-height: 80px; }
 
 .brand-logo {
-  background: url(../../images/logo.svg) no-repeat;
-  width: 300px;
+  background: url(../../images/slesanzlogo.jpg) no-repeat;
+  width: 85px;
   height: 80px;
   overflow: hidden;
   text-indent: -9001px;
@@ -8555,3 +8574,6 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   top: 0;
   left: 0;
   padding: 20px; }
+
+.row {
+  padding: 0 10px 10px; }
