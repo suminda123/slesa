@@ -1,0 +1,43 @@
+extends ../layouts/default
+block content
+	.section.no-pad-bot(id="index-banner")
+		if(sliderImages)
+			.slider
+				ul.slides
+					each simage in sliderImages
+						li
+							a(href=simage.website, title=simage.title, target="_blank")
+								img(src=simage._.image.src(), alt=simage.title)
+								.caption.center-align
+									h3=simage.title
+									h5.light.grey-text.text-lighten-3=simage.subtitle
+		h2.header.center.red-text.lighten-5.hide-on-small-only= home.maincontent.h1
+		.row.center
+			h5.header.col.s12.light= home.maincontent.h5
+		.row.left-align
+			p.no-pad-bot!= home.maincontent.content
+	.section.no-pad-bot
+		.row
+			.col.s12.m4
+				.icon-block
+					h3.center.red-text.primarycolorlighten3
+						i.material-icons flash_on
+					h5.center= home.section1.h5
+					p.light!= home.section1.content
+			.col.s12.m4
+				.icon-block
+					h3.center.red-text.primarycolorlighten3
+						i.material-icons group
+					h5.center= home.section2.h5
+					p.light!= home.section2.content
+			.col.s12.m4
+				.icon-block
+					h3.center.red-text.primarycolorlighten3
+						i.material-icons settings
+					h5.center= home.section3.h5
+					p.light!= home.section3.content
+block page-js
+	script.
+		$(document).ready(function () {
+			$('.slider').slider({height: 250});
+		});

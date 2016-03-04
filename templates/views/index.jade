@@ -1,43 +1,51 @@
 extends ../layouts/default
 block content
-	.section.no-pad-bot(id="index-banner")
-		if(sliderImages)
-			.slider
-				ul.slides
-					each simage in sliderImages
-						li
-							a(href=simage.website, title=simage.title, target="_blank")
-								img(src=simage._.image.src(), alt=simage.title)
-								.caption.center-align
-									h3=simage.title
-									h5.light.grey-text.text-lighten-3=simage.subtitle
-		h2.header.center.red-text.lighten-5.hide-on-small-only= home.maincontent.h1
-		.row.center
-			h5.header.col.s12.light= home.maincontent.h5
-		.row.left-align
-			p.no-pad-bot!= home.maincontent.content
-	.section.no-pad-bot
-		.row
-			.col.s12.m4
-				.icon-block
-					h3.center.red-text.primarycolorlighten3
-						i.material-icons flash_on
-					h5.center= home.section1.h5
-					p.light!= home.section1.content
-			.col.s12.m4
-				.icon-block
-					h3.center.red-text.primarycolorlighten3
-						i.material-icons group
-					h5.center= home.section2.h5
-					p.light!= home.section2.content
-			.col.s12.m4
-				.icon-block
-					h3.center.red-text.primarycolorlighten3
-						i.material-icons settings
-					h5.center= home.section3.h5
-					p.light!= home.section3.content
+	.row.clear
+		.col.s12.m8
+			.section.no-pad-bot(id="index-banner")
+				if(sliderImages)
+					.slider
+						ul.slides
+							each simage in sliderImages
+								li
+									a(href=simage.website, title=simage.title, target="_blank")
+										img(src=simage._.image.src(), alt=simage.title)
+										.caption.center-align
+											h3=simage.title
+											h5.light.grey-text.text-lighten-3=simage.subtitle
+			.row
+				h4 About us
+				p In tegenstelling tot wat algemeen aangenomen wordt is Lorem Ipsum niet zomaar willekeurige tekst. het heeft zijn wortels in een stuk klassieke latijnse literatuur uit 45 v.Chr. en is dus meer dan 2000 jaar oud. Richard McClintock, een professor latijn aan de Hampden-Sydney College in Virginia, heeft één van de meer obscure latijnse woorden, consectetur, uit een Lorem Ipsum passage opgezocht, en heeft tijdens het zoeken naar het woord in de klassieke literatuur de onverdachte bron ontdekt. Lorem Ipsum komt uit de secties 1.10.32 en 1.10.33 van "de Finibus Bonorum et Malorum" (De uitersten van goed en kwaad) door Cicero, geschreven in 45 v.Chr. Dit boek is een verhandeling over de theorie der ethiek, erg populair tijdens de renaissance. De eerste regel van Lorem Ipsum, "Lorem ipsum dolor sit amet..", komt uit een zin in sectie 1.10.32.
+			.row
+				h4 Our projects
+				p In tegenstelling tot wat algemeen aangenomen wordt is Lorem Ipsum niet zomaar willekeurige tekst. het heeft zijn wortels in een stuk klassieke latijnse literatuur uit 45 v.Chr. en is dus meer dan 2000 jaar oud. Richard McClintock, een professor latijn aan de Hampden-Sydney College in Virginia, heeft één van de meer obscure latijnse woorden, consectetur, uit een Lorem Ipsum passage opgezocht, en heeft tijdens het zoeken naar het woord in de klassieke literatuur de onverdachte bron ontdekt. Lorem Ipsum komt uit de secties 1.10.32 en 1.10.33 van "de Finibus Bonorum et Malorum" (De uitersten van goed en kwaad) door Cicero, geschreven in 45 v.Chr. Dit boek is een verhandeling over de theorie der ethiek, erg populair tijdens de renaissance. De eerste regel van Lorem Ipsum, "Lorem ipsum dolor sit amet..", komt uit een zin in sectie 1.10.32.
+		.col.s12.m4
+			.card.deep-orange.lighten-5
+				.card-content
+					h4.card-title.center-align.blue-grey.z-depth-4 Upcoming Event
+					h4.center-align.blue-grey.z-depth-4 Priya Suriyasena Night
+					.row 
+						span.label When: 
+						span 23rd April 2016 at 6:30pm
+					.row 
+						span.label Where: 
+						span Dorothy Winstone Centre - Auckland 
+					.row.center-align
+						iframe(width="350",height="300",src="https://www.youtube.com/embed/VFk9NEMXy40", frameborder="0",allowfullscreen)
+				.card-action.center-align
+					a.waves-effect.waves-light.btn(href="#") Book Tickets
+					a.waves-effect.waves-light.btn(href="#" style="margin-left:20px;") More Info...
+			.row
+				div.card.small
+					div.card-image
+						img(src="./images/spon_our_hero.jpg")
+						span.card-title Sponsor heroes children
+					div.card-content
+						p Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende drukker 
+					div.card-action
+						a(href="#") this is a link
 block page-js
 	script.
 		$(document).ready(function () {
-			$('.slider').slider({height: 250});
+			$('.slider').slider({height: 450});
 		});

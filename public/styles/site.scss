@@ -12,7 +12,7 @@
 // You can also add your own custom variables to this file for
 // use in your site stylesheets.
 
-@import "site/variables";
+@import "site/_variables.scss";
 
 
 // Site Styles
@@ -20,6 +20,7 @@
 
 // Add your own site style includes here
 @import "site/layout";
+@import "site/mediaqueries";
 
 
 .primarycolorlighten1{
@@ -48,6 +49,14 @@
 
 .row{
   padding: 0 10px 10px;
+  margin: 0;
 }
-
+h3,h4,h5 {
+  margin: 0;
+  padding-bottom: 10px;
+}
+.label{
+  font-size: 1.2em;
+  font-weight: bold;
+}
 

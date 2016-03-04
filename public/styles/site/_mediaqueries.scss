@@ -1,0 +1,17 @@
+@media #{$medium-and-down} {
+  // styles for medium screens and down
+  .logodiv{
+	height: 60px;
+  }
+
+  nav{
+	height: 60px;
+	line-height: 60px;
+  }
+
+  .heading{
+	line-height: 60px;
+	margin-left: 100px;
+  }
+  
+}

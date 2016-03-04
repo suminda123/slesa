@@ -19,16 +19,11 @@ html
 		block css
 		block head
 	body
-		div.banner.bg-primary.hide-on-med-and-down.bgsoldier
-			div.bgnavy
-				.container
-					a#logo-container.brand-logo(href='/') SLESANZ
-					div.bgarmy.text-center our heroes
-						span.heading.right.text-white Sri Lankan Ex Servicemen Association
-		nav.clearfix.z-depth-5(role='navigation')
+		nav.clearfix(role='navigation')
 			.nav-wrapper.container
 				.logodiv
-					span.heading.hide-on-med-and-up SLESA
+					a#logo-container.brand-logo(href='/') SLESANZ
+					span.heading.hide-on-med-and-down Sri Lankan Ex Servicemen Association 
 					ul.right.hide-on-med-and-down
 						each link in navLinks
 							li(class=(section === link.key ? 'active' : null)): a(href=link.href)= link.label
@@ -50,12 +45,12 @@ html
 			//- content
 			block content
 			//- footer
-		footer.page-footer
+		footer.page-footer.red.primarycolorlighten2
 			.container
 				.row
 					.col.l6.s12
-						h5.white-text SLESA Bio
-						p.white-text Lorem Ipsum is slechts een proeftekst uit het drukkerij- en zetterijwezen. Lorem Ipsum is de standaard proeftekst in deze bedrijfstak sinds de 16e eeuw, toen een onbekende drukker een zethaak met letters nam en ze door elkaar husselde om een font-catalogus te maken.
+						h5.white-text Company Bio
+						p.white-text business. While our specialist expertise is in custom software development, our focus is the bottom-line advantages our solutions deliver.
 					.col.l3.s12
 						h5.white-text Connect
 						ul
@@ -64,11 +59,11 @@ html
 							li
 								a.white-text(href="/") About Us
 							li
-								a.white-text(href="/") News
+								a.white-text(href="/") Our Solutions
 							li
-								a.white-text(href="/") Events
+								a.white-text(href="/") Portfolio
 							li
-								a.white-text(href="/") Our Projects
+								a.white-text(href="/") Jobs
 							li
 								a.white-text(href="/") Contact
 					.col.l3.s12
@@ -79,7 +74,7 @@ html
 							li
 								a.white-text(href="/") Work with us
 							li
-								a.white-text(href="/") Gallery
+								a.white-text(href="/") Our process
 			.footer-copyright
 				.container Copyright &copy; 2011-2015 Sri Lankan Ex Servicemen Association Auckland
 					

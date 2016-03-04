@@ -8525,31 +8525,53 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     margin-bottom: 5em; } }
 
 body {
-  background: url(../../images/bgNews.jpg) no-repeat fixed center top; }
+  background: url(../../images/bgNews.jpg) no-repeat center 160px;
+  background-color: #245C6B; }
+
+.banner {
+  height: 160px; }
+
+.bgnavy {
+  background: url(../../images/navy.jpg) no-repeat left top;
+  height: 160px; }
+
+.bgsoldier {
+  background: url(../../images/banersoldier.png) no-repeat right top; }
+
+.bgarmy {
+  height: 160px;
+  width: 50%;
+  margin-left: 167px;
+  background: url(../../images/lk.gif) no-repeat left top; }
+
+.container {
+  width: 95%; }
 
 .heading {
-  line-height: 80px;
-  font-size: 1.8em;
+  line-height: 160px;
+  font-size: 2em;
   display: inline-block;
-  margin-left: 90px;
+  margin-left: 0px;
   font-family: 'Josefin Sans' !important;
   font-style: normal;
-  font-weight: bold; }
+  font-weight: bold;
+  color: #fff; }
 
 .bgwhite {
   background-color: #fff; }
 
 .logodiv {
-  height: 80px; }
+  height: 40px; }
 
 nav {
-  height: 80px;
-  line-height: 80px; }
+  height: 40px;
+  line-height: 40px;
+  background-color: #000011; }
 
 .brand-logo {
-  background: url(../../images/slesanzlogo.jpg) no-repeat;
-  width: 85px;
-  height: 80px;
+  background: url(../../images/logo.png) no-repeat;
+  width: 167px;
+  height: 160px;
   overflow: hidden;
   text-indent: -9001px;
   float: left;
@@ -8558,15 +8580,24 @@ nav {
 #header {
   margin-top: 20px; }
 
-#footer {
-  margin-top: 30px;
-  border-top: 1px solid #eeeeee;
-  padding-top: 30px; }
+footer.page-footer {
+  margin-top: -20px;
+  background-color: #245C6B; }
 
 .gallery-image img {
   display: block;
   max-width: 100%;
   height: auto; }
+
+@media only screen and (max-width: 992px) {
+  .logodiv {
+    height: 60px; }
+  nav {
+    height: 60px;
+    line-height: 60px; }
+  .heading {
+    line-height: 60px;
+    margin-left: 100px; } }
 
 .image-title {
   color: #fff;
@@ -8576,4 +8607,13 @@ nav {
   padding: 20px; }
 
 .row {
-  padding: 0 10px 10px; }
+  padding: 0 10px 10px;
+  margin: 0; }
+
+h3, h4, h5 {
+  margin: 0;
+  padding-bottom: 10px; }
+
+.label {
+  font-size: 1.2em;
+  font-weight: bold; }
