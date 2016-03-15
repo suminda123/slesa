@@ -8533,7 +8533,8 @@ body {
 
 .bgnavy {
   background: url(../../images/navy.jpg) no-repeat left top;
-  height: 160px; }
+  height: 160px;
+  background-size: 18%; }
 
 .bgsoldier {
   background: url(../../images/banersoldier.png) no-repeat right top; }

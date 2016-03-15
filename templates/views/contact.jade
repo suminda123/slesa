@@ -2,33 +2,27 @@ extends ../layouts/default
 
 block intro
 	.container
-		h1 Contact Us
+		h2 Contact Us
 		
 block content
 	.container
 		if enquirySubmitted
 			h3 Thanks for getting in touch.
 		else
-			.row: .col-sm-8.col-md-6
-				form(method='post')
+			.row: .col.s8.m6
+				form(method='post').form-horizontal
 					input(type='hidden', name='action', value='contact')
-					.form-group(class=validationErrors.name ? 'has-error' : null)
-						label Name
-						input(type='text', name='name.full', value=formData['name.full']).form-control
-					.form-group(class=validationErrors.email ? 'has-error' : null)
-						label Email
-						input(type='email', name='email', value=formData.email).form-control
-					.form-group
-						label Phone
-						input(type='text', name='phone', value=formData.phone, placeholder='(optional)').form-control
-					.form-group(class=validationErrors.enquiryType ? 'has-error' : null)
-						label What are you contacting us about?
-						select(name='enquiryType').form-control
-							option(value='') (select one)
-							each type in enquiryTypes
-								option(value=type.value, selected=formData.enquiryType == type.value)= type.label
-					.form-group(class=validationErrors.message ? 'has-error' : null)
-						label Message
-						textarea(name='message', placeholder='Leave us a message...' rows=4).form-control= formData.message
-					.form-actions
-						button(type='submit').btn.btn-primary Send
+					.input-field.col.s12
+						input.validate(type='text' id='name.full' name='name.full' value=formData['name.full'] required)
+						label(for='name.full') Name
+					.input-field.col.s12
+						input(type='email' name='email' value=formData.email required placeholder="name@domain.com")
+						label(for='email') Email
+					.input-field.col.s12
+						input(type='text' name='phone' value=formData.phone)
+						label(for='phone') Phone
+					.input-field.col.s12
+						textarea(name='message'  rows=8 required).materialize-textarea= formData.message
+						label(for='message') Message
+					.input-field.col.s12
+						button(type='submit').waves-effect.waves-light.btn Submit
