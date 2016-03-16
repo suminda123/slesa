@@ -2,12 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c620479d-7ca8-4e31-9412-1b13a40c7d8f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\_bootstrap-compass.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\_bootstrap-mincer.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\_bootstrap-sprockets.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\_bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_breadcrumbs.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_button-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_component-animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_dropdowns.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_glyphicons.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_input-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_modals.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_navs.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_pager.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_popovers.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_progress-bars.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_responsive-embed.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_responsive-utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_scaffolding.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_thumbnails.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_wells.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_center-block.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_hide-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_nav-divider.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_nav-vertical-align.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_opacity.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_progress-bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_reset-filter.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_reset-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_responsive-visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_tab-focus.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_text-overflow.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_vendor-prefixes.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/views/blog.jade" afterPath="$PROJECT_DIR$/templates/views/blog.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/layouts/default.jade" afterPath="$PROJECT_DIR$/templates/layouts/default.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/middleware.js" afterPath="$PROJECT_DIR$/routes/middleware.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/styles/site.css" afterPath="$PROJECT_DIR$/public/styles/site.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/views/post.jade" afterPath="$PROJECT_DIR$/templates/views/post.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="slesa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,22 +104,8 @@
       <file leaf-file-name="contact.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/views/contact.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-2.68">
               <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <marker date="1458035668371" expanded="true" signature="33:70" placeholder="..." />
-                <marker date="1458035668371" expanded="true" signature="56:70" placeholder="..." />
-                <marker date="1458035668371" expanded="true" signature="76:951" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="site.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/styles/site.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -55,7 +114,7 @@
       <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/styles/site/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding />
             </state>
@@ -65,18 +124,50 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-34.32">
+            <state vertical-scroll-proportion="-10.64">
               <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.jade" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/views/blog.jade">
+      <file leaf-file-name="post.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/views/post.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0036496">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            <state vertical-scroll-proportion="-4.84">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/views/errors/404.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1456209517950" expanded="true" signature="36:120" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="500.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/views/errors/500.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.jade" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/layouts/default.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43897995">
+              <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -85,7 +176,7 @@
       <file leaf-file-name="middleware.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/middleware.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-29.04">
+            <state vertical-scroll-proportion="0.0">
               <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
               <folding />
             </state>
@@ -122,13 +213,14 @@
         <option value="$PROJECT_DIR$/updates/0.0.1-admins.js" />
         <option value="$PROJECT_DIR$/node_modules/keystone/node_modules/mongoose/node_modules/mongodb/node_modules/bson/ext/index.js" />
         <option value="$PROJECT_DIR$/public/js/init.js" />
-        <option value="$PROJECT_DIR$/templates/layouts/default.jade" />
         <option value="$PROJECT_DIR$/templates/views/gallery.jade" />
         <option value="$PROJECT_DIR$/templates/views/contact.jade" />
         <option value="$PROJECT_DIR$/public/styles/site/_layout.scss" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/routes/middleware.js" />
         <option value="$PROJECT_DIR$/templates/views/blog.jade" />
+        <option value="$PROJECT_DIR$/templates/views/post.jade" />
+        <option value="$PROJECT_DIR$/templates/layouts/default.jade" />
       </list>
     </option>
   </component>
@@ -205,10 +297,6 @@
               <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -223,18 +311,8 @@
               <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="slesa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slesa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
+              <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -316,7 +394,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1612" height="868" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24346718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -324,18 +402,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12116992" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11977716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -354,15 +432,35 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/views/blog.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/middleware.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/views/contact.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <marker date="1458035668371" expanded="true" signature="33:70" placeholder="..." />
-            <marker date="1458035668371" expanded="true" signature="56:70" placeholder="..." />
-            <marker date="1458035668371" expanded="true" signature="76:951" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -394,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -402,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="53" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -410,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -426,18 +521,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="42" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/styles/bootstrap/_bootstrap.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -608,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="42" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="53" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,35 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.70941335">
           <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/layouts/default.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16098227">
-          <caret line="95" column="52" selection-start-line="95" selection-start-column="52" selection-end-line="95" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/views/contact.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <marker date="1458035668371" expanded="true" signature="33:70" placeholder="..." />
-            <marker date="1458035668371" expanded="true" signature="56:70" placeholder="..." />
-            <marker date="1458035668371" expanded="true" signature="76:951" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/styles/site.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,26 +734,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
+    <entry file="file://$PROJECT_DIR$/routes/middleware.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-34.32">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/middleware.js">
+    <entry file="file://$PROJECT_DIR$/public/styles/site.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-29.04">
-          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/views/contact.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.68">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/views/blog.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0036496">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.6010929">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.64">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/views/post.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.84">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/views/errors/404.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1456209517950" expanded="true" signature="36:120" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/views/errors/500.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layouts/default.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43897995">
+          <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
           <folding />
         </state>
       </provider>
