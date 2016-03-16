@@ -2,85 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c620479d-7ca8-4e31-9412-1b13a40c7d8f" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\_bootstrap-compass.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\_bootstrap-mincer.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\_bootstrap-sprockets.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\_bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_alerts.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_badges.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_breadcrumbs.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_button-groups.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_close.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_code.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_component-animations.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_dropdowns.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_glyphicons.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_input-groups.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_jumbotron.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_labels.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_media.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_modals.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_navs.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_normalize.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_pager.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_panels.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_popovers.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_print.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_progress-bars.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_responsive-embed.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_responsive-utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_scaffolding.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_thumbnails.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_tooltip.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_type.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\_wells.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_alerts.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_background-variant.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_border-radius.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_center-block.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_gradients.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_grid-framework.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_hide-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_image.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_labels.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_nav-divider.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_nav-vertical-align.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_opacity.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_panels.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_progress-bar.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_reset-filter.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_reset-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_resize.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_responsive-visibility.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_size.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_tab-focus.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_table-row.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_text-emphasis.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_text-overflow.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\slesa\public\styles\bootstrap\bootstrap\mixins\_vendor-prefixes.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/views/blog.jade" afterPath="$PROJECT_DIR$/templates/views/blog.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/layouts/default.jade" afterPath="$PROJECT_DIR$/templates/layouts/default.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/views/post.jade" afterPath="$PROJECT_DIR$/templates/views/post.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="slesa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -106,7 +30,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-2.68">
               <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding />
+              <folding>
+                <marker date="1458035668371" expanded="true" signature="33:70" placeholder="..." />
+                <marker date="1458035668371" expanded="true" signature="56:70" placeholder="..." />
+                <marker date="1458035668371" expanded="true" signature="76:951" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,8 +62,18 @@
       <file leaf-file-name="post.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/views/post.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.84">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state vertical-scroll-proportion="-10.12">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.jade" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/views/blog.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16029143">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -158,16 +96,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1456209517954" expanded="true" signature="36:124" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.jade" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/layouts/default.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43897995">
-              <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+            <state vertical-scroll-proportion="-3.94">
+              <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -218,9 +158,9 @@
         <option value="$PROJECT_DIR$/public/styles/site/_layout.scss" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/routes/middleware.js" />
-        <option value="$PROJECT_DIR$/templates/views/blog.jade" />
-        <option value="$PROJECT_DIR$/templates/views/post.jade" />
         <option value="$PROJECT_DIR$/templates/layouts/default.jade" />
+        <option value="$PROJECT_DIR$/templates/views/post.jade" />
+        <option value="$PROJECT_DIR$/templates/views/blog.jade" />
       </list>
     </option>
   </component>
@@ -281,6 +221,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="slesa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slesa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slesa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -460,7 +418,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding />
+          <folding>
+            <marker date="1458035668371" expanded="true" signature="33:70" placeholder="..." />
+            <marker date="1458035668371" expanded="true" signature="56:70" placeholder="..." />
+            <marker date="1458035668371" expanded="true" signature="76:951" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -754,15 +716,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.68">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/views/blog.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6010929">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-          <folding />
+          <folding>
+            <marker date="1458035668371" expanded="true" signature="33:70" placeholder="..." />
+            <marker date="1458035668371" expanded="true" signature="56:70" placeholder="..." />
+            <marker date="1458035668371" expanded="true" signature="76:951" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -770,14 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.64">
           <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/views/post.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.84">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -796,14 +746,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1456209517954" expanded="true" signature="36:124" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/layouts/default.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43897995">
-          <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+        <state vertical-scroll-proportion="-3.94">
+          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/views/post.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.12">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/views/blog.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16029143">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
         </state>
       </provider>
