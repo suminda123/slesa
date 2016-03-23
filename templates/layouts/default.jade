@@ -29,9 +29,12 @@ html
 			.nav-wrapper.container
 				.logodiv
 					span.heading.hide-on-med-and-up SLESA
-					ul.right.hide-on-med-and-down
+					ul.left.hide-on-med-and-down
 						each link in navLinks
 							li(class=(section === link.key ? 'active' : null)): a(href=link.href)= link.label
+					ul.right.hide-on-med-and-down
+						li: a(href='/srilanka') Sri Lanka
+						li: a.dropdown-button(href='#' data-activates='mnudropdown') Important Links
 					ul#nav-mobile.side-nav
 						each link in navLinks
 							li(class=(section === link.key ? 'active' : null)): a(href=link.href)= link.label
@@ -42,6 +45,20 @@ html
 							li: a(href='/keystone/signin') Sign In
 					a.button-collapse(href='#', data-activates='nav-mobile')
 						i.material-icons menu
+					ul.dropdown-content.mnudropdown(id='mnudropdown')
+						li: a(href='http://www.army.lk/' target='_blank') SL Army
+						li: a(href='http://www.navy.lk/' target='_blank') SL Navy
+						li: a(href='http://www.airforce.lk/' target='_blank') SL Air Force
+						li: a(href='http://www.police.lk/' target='_blank') SL Police
+						li.divider
+						li: a(href='http://www.immigration.gov.lk/' target='_blank') SL Immigration
+						li: a(href='http://www.airport.lk/' target='_blank') SL Air Port
+						li: a(href='http://www.slhcaust.org/' target='_blank') High Commission
+						li.divider
+						li: a(href='http://www.usla.org.nz/' target='_blank') USLA
+						li: a(href='http://nzslfoundation.org/' target='_blank') Foundation
+						li: a(href='http://spur.org.nz/' target='_blank') SpurNZ
+						
 		.container.bgwhite
 			//- intro
 			block intro

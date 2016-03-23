@@ -8590,6 +8590,9 @@ footer.page-footer {
   max-width: 100%;
   height: auto; }
 
+.mnudropdown {
+  width: 200px !important; }
+
 @media only screen and (max-width: 992px) {
   .logodiv {
     height: 60px; }

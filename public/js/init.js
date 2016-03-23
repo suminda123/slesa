@@ -2,6 +2,7 @@
 	$(function(){
 
 		$('.button-collapse').sideNav();
+		$('.dropdown-button').dropdown();
 		
 		if($(".fancybox").length>0)
 			$(".fancybox").fancybox({
