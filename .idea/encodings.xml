@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/.env" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/Event.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/models/Home.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/models/SliderImages.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/models/User.js" charset="UTF-8" />
@@ -12,12 +13,15 @@
     <file url="file://$PROJECT_DIR$/public/styles/site/_layout.scss" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/public/styles/site/_mediaqueries.scss" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/public/styles/site/_variables.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/index.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/routes/middleware.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/views/events.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/routes/views/index.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/templates/layouts/default.jade" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/templates/layouts/defaultback.jade" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/templates/views/blog.jade" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/templates/views/contact.jade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templates/views/events.jade" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/templates/views/gallery.jade" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/templates/views/index.jade" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/templates/views/indexback.jade" charset="UTF-8" />

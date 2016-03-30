@@ -1,0 +1,18 @@
+extends ../layouts/default
+
+block intro
+	.container
+		h3 Events
+block content
+	.container.pagecontent
+		if events.length
+			.row
+				each event in events
+					.col.s12.m12.l6
+						h5= event.title
+		else
+			.row
+				h3.blue-text.text-darken-2 There are no events yet.
+block page-js
+	script(src='/js/fancybox/jquery.mousewheel-3.0.6.pack.js')
+	script(src='/js/fancybox/jquery.fancybox.pack.js')

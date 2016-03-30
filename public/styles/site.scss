@@ -39,6 +39,10 @@
   @extend $primary-color, .lighten-4;
 }
 
+.pagecontent{
+  min-height: 420px;
+}
+
 .image-title {
   color: #fff;
   position: absolute;

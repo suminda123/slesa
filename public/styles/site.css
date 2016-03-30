@@ -8601,7 +8601,12 @@ footer.page-footer {
     line-height: 60px; }
   .heading {
     line-height: 60px;
-    margin-left: 100px; } }
+    margin-left: 100px; }
+  .pagecontent {
+    min-height: 180px; } }
+
+.pagecontent {
+  min-height: 420px; }
 
 .image-title {
   color: #fff;

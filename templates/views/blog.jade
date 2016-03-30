@@ -27,7 +27,7 @@ block intro
 		h2= data.category ? data.category.name : 'News'
 
 block content
-	.container: .row
+	.container.pagecontent: .row
 		.col.s8.m9
 			if filters.category && !data.category
 				h3.text-dimmed Invalid Category.
