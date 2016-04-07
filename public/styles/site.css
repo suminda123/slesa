@@ -8625,4 +8625,10 @@ h3, h4, h5 {
 
 .label {
   font-size: 1.2em;
-  font-weight: bold; }
+  font-weight: bold;
+  padding-left: 0 !important; }
+
+.content {
+  margin-top: 4px; }
+  .content p {
+    margin: 0; }

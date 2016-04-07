@@ -8,8 +8,20 @@ block content
 		if events.length
 			.row
 				each event in events
-					.col.s12.m12.l6
-						h5= event.title
+					.col.s12.m4
+						.col.s12
+							img(src= event._.image.limit(320,320)).img-rounded
+						.col.s12
+							h5= event.title
+						.col.s12
+							label.label.col.s2 When:
+							p.col.s10.content= event._.when.format('MMMM DD, YYYY')
+						.col.s12
+							label.label.col.s2 Where:
+							p.col.s10.content= event.location
+						.col.s12.content
+							p!= event.content.brief
+					
 		else
 			.row
 				h3.blue-text.text-darken-2 There are no events yet.
