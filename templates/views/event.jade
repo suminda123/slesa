@@ -1,0 +1,30 @@
+extends ../layouts/default
+block content
+	.container.pagecontent: .row: .col.s10.offset-s1.m8.offset-m2
+		article
+			p: a(href='/events') &larr; back to the events
+			hr
+			if !data.event
+				h3 Invalid Event.
+			else
+				header
+					h3= data.event.title
+					.col.s12.m6
+						.col.s12
+							label.label.col.s2 When:
+							p.col.s10.content= data.event._.when.format('MMMM DD, YYYY')
+						.col.s12
+							label.label.col.s2 Where:
+							p.col.s10.content= data.event.location
+					.col.s12.m6
+						img(src= data.event._.image.limit(320,320)).img-rounded
+				.col.s12.content
+					p!= data.event.content.extended
+				.col.s12
+					if (data.event.video)
+						.row(style="padding:15px;")
+							div.video-container
+								iframe(width="853",height="480",src= data.event.video, frameborder="0",allowfullscreen)
+block page-js
+	script(src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-571621473617a44e')
+					
