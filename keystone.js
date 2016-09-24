@@ -10,23 +10,19 @@ var keystone = require('keystone');
 // and documentation.
 
 keystone.init({
-
 	'name': 'SLESA',
 	'brand': 'SLESA',
-	
 	'sass': 'public',
 	'static': 'public',
 	'favicon': 'public/favicon.ico',
 	'views': 'templates/views',
 	'view engine': 'jade',
 	'emails': 'templates/emails',
-	
 	'auto update': true,
 	'session': true,
 	'session store': 'mongo',
 	'auth': true,
 	'user model': 'User'
-
 });
 
 // Load your project's Models
