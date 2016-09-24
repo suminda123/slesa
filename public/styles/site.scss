@@ -24,19 +24,19 @@
 
 
 .primarycolorlighten1{
-  @extend $primary-color, .lighten-1;
+  color: lighten($primary-color, 15%);
 }
 
 .primarycolorlighten2{
-  @extend $primary-color, .lighten-2;
+color: lighten($primary-color, 20%);
 }
 
 .primarycolorlighten3{
-  @extend $primary-color, .lighten-3;
+color: lighten($primary-color, 25%);
 }
 
 .primarycolorlighten4{
-  @extend $primary-color, .lighten-4;
+color: lighten($primary-color, 30%);
 }
 
 .pagecontent{
