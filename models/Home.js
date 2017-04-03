@@ -4,23 +4,8 @@ var Types = keystone.Field.Types;
 var Home = new keystone.List('Home');
 
 Home.add({
-	maincontent: {
-		h1: {type: String},
-		h5: {type: String},
-		content: {type: Types.Html, wysiwyg: true, height: 400}
-	},
-	section1: {
-		h5: {type: String},
-		content: {type: Types.Html, wysiwyg: true, height: 400}
-	},
-	section2: {
-		h5: {type: String},
-		content: {type: Types.Html, wysiwyg: true, height: 400}
-	},
-	section3: {
-		h5: {type: String},
-		content: {type: Types.Html, wysiwyg: true, height: 400}
-	},
+	aboutus: {type: Types.Html, wysiwyg: true, height: 400},
+	ourprojects: {type: Types.Html, wysiwyg: true, height: 400},
 	state: { type: Types.Select, options: 'draft, published, archived', default: 'draft', index: true },
 	publishedDate: { type: Types.Date, index: true }
 });

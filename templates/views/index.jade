@@ -14,11 +14,13 @@ block content
 											h3=simage.title
 											h5.light.grey-text.text-lighten-3=simage.subtitle
 			.row
-				h4 About us
-				p In tegenstelling tot wat algemeen aangenomen wordt is Lorem Ipsum niet zomaar willekeurige tekst. het heeft zijn wortels in een stuk klassieke latijnse literatuur uit 45 v.Chr. en is dus meer dan 2000 jaar oud. Richard McClintock, een professor latijn aan de Hampden-Sydney College in Virginia, heeft één van de meer obscure latijnse woorden, consectetur, uit een Lorem Ipsum passage opgezocht, en heeft tijdens het zoeken naar het woord in de klassieke literatuur de onverdachte bron ontdekt. Lorem Ipsum komt uit de secties 1.10.32 en 1.10.33 van "de Finibus Bonorum et Malorum" (De uitersten van goed en kwaad) door Cicero, geschreven in 45 v.Chr. Dit boek is een verhandeling over de theorie der ethiek, erg populair tijdens de renaissance. De eerste regel van Lorem Ipsum, "Lorem ipsum dolor sit amet..", komt uit een zin in sectie 1.10.32.
+				if(home.aboutus)
+					h4 About us
+					p!=home.aboutus
 			.row
-				h4 Our projects
-				p In tegenstelling tot wat algemeen aangenomen wordt is Lorem Ipsum niet zomaar willekeurige tekst. het heeft zijn wortels in een stuk klassieke latijnse literatuur uit 45 v.Chr. en is dus meer dan 2000 jaar oud. Richard McClintock, een professor latijn aan de Hampden-Sydney College in Virginia, heeft één van de meer obscure latijnse woorden, consectetur, uit een Lorem Ipsum passage opgezocht, en heeft tijdens het zoeken naar het woord in de klassieke literatuur de onverdachte bron ontdekt. Lorem Ipsum komt uit de secties 1.10.32 en 1.10.33 van "de Finibus Bonorum et Malorum" (De uitersten van goed en kwaad) door Cicero, geschreven in 45 v.Chr. Dit boek is een verhandeling over de theorie der ethiek, erg populair tijdens de renaissance. De eerste regel van Lorem Ipsum, "Lorem ipsum dolor sit amet..", komt uit een zin in sectie 1.10.32.
+				if(home.ourprojects)
+					h4 Our projects
+					p!=home.ourprojects
 		.col.s12.m4
 			.card.deep-orange.lighten-5
 				.card-content
@@ -31,7 +33,7 @@ block content
 						span.label Where: 
 						span Dorothy Winstone Centre - Auckland 
 					.row.center-align
-						iframe(width="350",height="300",src="https://www.youtube.com/embed/VFk9NEMXy40", frameborder="0",allowfullscreen)
+						iframe(width="350",height="300",src="https://www.youtube.com/embed/q5TIEtoWVBY", frameborder="0",allowfullscreen)
 				.card-action.center-align
 					a.waves-effect.waves-light.btn(href="/events/event/priya-suriyasena-night" style="margin-left:20px;") More Info...
 			.row
